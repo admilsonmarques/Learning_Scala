@@ -9,5 +9,5 @@ Repository for following up the Course "Rock the JVM! Scala and Functional Progr
 * [Github Official](https://github.com/rockthejvm/udemy-scala-advanced)
 * [Udemy Course link](https://www.udemy.com/course/advanced-scala/)
 
-###Project Link
-* [Github Scala Learning Link](https://github.com/admilsonmarques/Learning_Scala)
+### Personal Project
+* [Github](https://github.com/admilsonmarques/Learning_Scala)
