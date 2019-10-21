@@ -19,6 +19,6 @@ savePict(width = 800)
  */
 
   savePict(height=600, width = 800, format = "bitmap")
-  
+
 
 }
